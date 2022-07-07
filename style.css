@@ -1,0 +1,112 @@
+div.div1{
+    background-image: url(donation13.jpg) ;
+    background-repeat: no-repeat;
+    text-decoration-color: white;
+    background-size: cover;
+    border-image-width: 30px;
+    height: 350px;
+    text-decoration: none;
+    
+}
+h1{
+    text-align: center;
+    color: white;
+    text-shadow: rgb(177, 17, 17);
+    font-size: 40px;
+}
+.p1{
+color: white
+}
+.p2{
+    color: black;
+}
+.link-button{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    background-color: tomato;
+    border-radius: 7%;
+    padding: 10px;
+    margin-left: 50%;
+    
+}
+.second-section{
+    text-align: center;
+
+}
+.div2{
+    text-align: center;
+    padding: 20%;
+}
+.button{
+    text-align: center;
+    background-color: red;
+    position: relative;
+    margin: 50%;
+    margin-top: 0;
+    margin-bottom: 5px;
+    color: white;
+}
+.donate-plan{
+color: black;
+
+}
+.p3{
+    text-align: center;
+}
+
+
+footer{
+    background-color: brown;
+    text-align: center;
+}
+.section-tow{
+    display: flex;
+margin: 90px;
+
+}
+.card1{
+height:350px ;
+width: 350px;
+border: 2px solid grey;
+text-align: center;
+box-shadow: 8px 8px 16px gray;
+padding: 20px;
+border-radius: 5%;
+margin-top: 30;
+margin-right: 60px;
+}
+.card2{
+    height: 300px;
+    width: 300px;
+}
+.title2{
+color: black;
+text-align: center;
+}
+.flex-container{
+
+}
+.card2{
+    height:350px ;
+    width: 350px;
+    border: 2px solid rgb(132, 92, 92);
+    text-align: center;
+    box-shadow: 8px 8px 16px gray;
+    padding: 20px;
+    border-radius: 5%;
+    margin-top: 30;
+    margin-right: 60px;
+    
+    }
+    .card3{
+        height:350px ;
+        width: 350px;
+        border: 2px solid green;
+        text-align: center;
+        box-shadow: 8px 8px 16px gray;
+        padding: 20px;
+        border-radius: 5%;
+        margin-top: 30;
+        margin-right: 40px;
+        }
