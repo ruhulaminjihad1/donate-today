@@ -1,12 +1,18 @@
-div.div1{
+.div1{
     background-image: url(donation13.jpg) ;
     background-repeat: no-repeat;
-    text-decoration-color: white;
+    text-decoration-color:white;
     background-size: cover;
     border-image-width: 30px;
     height: 350px;
-    text-decoration: none;
-    
+    box-shadow: 5px 5px 5px rgba(red, green, blue, alpha);
+    padding: 10px 30px;
+    border-radius: 8px;
+background-attachment: fixed;
+
+}
+.link-button:hover{
+    background-color: green;
 }
 h1{
     text-align: center;
@@ -30,13 +36,19 @@ color: white
     margin-left: 50%;
     
 }
+.amount{
+margin: 25%;
+
+}
 .second-section{
     text-align: center;
 
 }
 .div2{
     text-align: center;
-    padding: 20%;
+    padding:10%
+
+
 }
 .button{
     text-align: center;
@@ -59,6 +71,7 @@ color: black;
 footer{
     background-color: brown;
     text-align: center;
+
 }
 .section-tow{
     display: flex;
@@ -105,3 +118,56 @@ text-align: center;
         margin-top: 30;
         margin-right: 40px;
         }
+        .my-update{
+            text-align: center;
+            margin: 220px;
+        }
+        .update{
+background-color: bisque;
+
+        }
+        .submit{
+            background-color: rgb(224, 85, 15);
+            margin: 30px;
+        }
+        .background{
+background-color: burlywood;
+
+        }
+.half-width{
+width: 50%;
+
+
+}
+        .s1{
+            display: flex;
+        }
+        .how-to-contribute{
+            text-decoration: none;
+            background-color: orangered;
+            padding: 10px;
+            border-radius: 10%;
+            color: white;
+        }
+        .s2{
+            display: flex;
+        }
+        .survive{
+margin: 10px;
+        }
+        .my-update{
+        margin-top: auto;
+            padding: 5px;
+        }
+        .flex-container {
+            display: flex;
+            align-content: center;
+          justify-content: center;
+          }
+          
+          .flex-container > div {
+            background-color: rgb(215, 158, 167);
+            margin: 10px;
+            padding: 30px;
+            font-size: 30px;
+          }
